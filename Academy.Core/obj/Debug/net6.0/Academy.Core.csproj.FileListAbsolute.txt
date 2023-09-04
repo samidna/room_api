@@ -1,0 +1,12 @@
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\bin\Debug\net6.0\Academy.Core.deps.json
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.AssemblyReference.cache
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\Academy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfoInputs.cache
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfo.cs
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\Academy.Core.dll
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\refint\Academy.Core.dll
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\Academy.Core.pdb
+C:\Users\samidna\source\repos\AcademyApi\Academy.Core\obj\Debug\net6.0\ref\Academy.Core.dll

@@ -1,0 +1,15 @@
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\Academy.DAL.csproj.AssemblyReference.cache
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\Academy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\Academy.DAL.AssemblyInfoInputs.cache
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\Academy.DAL.AssemblyInfo.cs
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\Academy.DAL.csproj.CoreCompileInputs.cache
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\bin\Debug\net6.0\Academy.DAL.deps.json
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\bin\Debug\net6.0\Academy.DAL.dll
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\bin\Debug\net6.0\Academy.DAL.pdb
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\Academy.DAL.csproj.CopyComplete
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\Academy.DAL.dll
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\refint\Academy.DAL.dll
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\Academy.DAL.pdb
+C:\Users\samidna\source\repos\AcademyApi\Academy.DAL\obj\Debug\net6.0\ref\Academy.DAL.dll
